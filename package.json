@@ -1,0 +1,22 @@
+{
+  "name": "draggable",
+  "version": "1.0.0",
+  "description": "Simple draggable object for javascript",
+  "main": "draggable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nquangtrung/draggablejs.git"
+  },
+  "keywords": [
+    "draggable"
+  ],
+  "author": "trungtrontria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nquangtrung/draggablejs/issues"
+  },
+  "homepage": "https://github.com/nquangtrung/draggablejs"
+}
