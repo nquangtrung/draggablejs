@@ -69,3 +69,9 @@ Draggable.init("windows-draggable-1", {
     }
 });
 ```
+### NPM package
+
+[![alt text][draggablejs_badge]][draggablejs_npm]
+
+[draggablejs_badge]: https://nodei.co/npm/draggablejs.png?downloads=true&downloadRank=true&stars=true
+[draggablejs_npm]: https://www.npmjs.com/package/draggablejs
