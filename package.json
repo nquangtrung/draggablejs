@@ -1,5 +1,5 @@
 {
-  "name": "draggable",
+  "name": "draggablejs",
   "version": "1.0.0",
   "description": "Simple draggable object for javascript",
   "main": "draggable.js",
@@ -13,6 +13,7 @@
   "keywords": [
     "draggable"
   ],
+  "readmeFilename": "README.md",
   "author": "trungtrontria",
   "license": "ISC",
   "bugs": {
